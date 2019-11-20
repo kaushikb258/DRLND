@@ -1,0 +1,11 @@
+episode:  0  | episode reward:  39.127499125432294
+episode:  1  | episode reward:  38.988999128528064
+episode:  2  | episode reward:  39.277499122079504
+episode:  3  | episode reward:  39.105499125924005
+episode:  4  | episode reward:  39.129499125387646
+episode:  5  | episode reward:  39.03849912742163
+episode:  6  | episode reward:  39.10899912584583
+episode:  7  | episode reward:  39.03399912752217
+episode:  8  | episode reward:  39.205999123677664
+episode:  9  | episode reward:  39.06749912677337
+
